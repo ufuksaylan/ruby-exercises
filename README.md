@@ -1,6 +1,6 @@
 # Ruby Exercises
 
-These exercises are from [The Odin Project](https://www.theodinproject.com/courses/ruby-programming)'s Ruby curriculum.
+These are the my solutions to the basic Ruby projects from [The Odin Project](https://www.theodinproject.com/courses/ruby-programming)'s Ruby curriculum.
 
 ## [Basic Ruby Projects](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby#basic-ruby-projects)
 
